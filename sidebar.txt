@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[juw:home|Door43 (juw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-juw|d43-juw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-juw/archive/master.zip|d43-juw.zip]]
+
+**Recent Changes**
+{{changes>ns = juw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/juw|Ethnologue data]]
+
